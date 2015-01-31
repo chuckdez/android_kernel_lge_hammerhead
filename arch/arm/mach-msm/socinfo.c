@@ -289,10 +289,10 @@ static enum msm_cpu cpu_of_id[] = {
 	[124] = MSM_CPU_8960,
 
 	/* 8974 IDs */
-	[126] = MSM_CPU_8974,
-	[184] = MSM_CPU_8974,
-	[185] = MSM_CPU_8974,
-	[186] = MSM_CPU_8974,
+	[126] = MSM_CPU_8974PRO_AC,
+	[184] = MSM_CPU_8974PRO_AC,
+	[185] = MSM_CPU_8974PRO_AC,
+	[186] = MSM_CPU_8974PRO_AC,
 
 	/* 8974AA IDs */
 	[208] = MSM_CPU_8974PRO_AA,

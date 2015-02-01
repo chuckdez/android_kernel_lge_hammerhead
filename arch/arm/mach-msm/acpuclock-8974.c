@@ -187,7 +187,7 @@ static struct acpu_level acpu_freq_tbl_2g_pvs2[] __initdata = {
 static struct acpu_level acpu_freq_tbl_2g_pvs3[] __initdata = {
 	{ 1, {  300000, PLL_0, 0,   0 },  L2(0),  775000,  73 },
 	{ 1, {  652800, HFPLL, 1,  34 },  L2(0),  820000, 165 },
-\	{ 1, { 1497600, HFPLL, 1,  78 }, L2(1),  950000, 423 },
+	{ 1, { 1497600, HFPLL, 1,  78 }, L2(1),  950000, 423 },
 	{ 1, { 1958400, HFPLL, 1, 102 }, L2(1), 1025000, 598 },
 	{ 0, { 0 } }
 };
